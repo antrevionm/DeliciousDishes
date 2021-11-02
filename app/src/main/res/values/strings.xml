@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Delicious Dishes</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">94BU2R4X6LNrs0jB6aQApdu82BMK2cPzDDOqZzxh
+</string>
+    <string name="back4app_client_key">p6cOxWfYhfcEF1481fwJyI801RbfSXsnkvIWXRhi
+</string>
+</resources>
