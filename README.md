@@ -46,7 +46,8 @@ The app will show suggestions from people who love to cook and try out new recip
    
 * Login User
    * To log into the app, they will need to enter credentials. Enter email and password.
-   
+   ![Delicious Dishes walkthrough](https://user-images.githubusercontent.com/81782671/140663875-16b40ab8-ed8f-4818-bf20-9880ec51a5b6.gif)
+
 
 ### 3. Navigation
 
