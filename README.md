@@ -56,7 +56,9 @@ The app will show suggestions from people who love to cook and try out new recip
 * Home Tab
 * Create Post Tab
 * Notifications Tab
-* Menu Tab
+* Menu Tab 
+![Delicious Dishes walkthrough2](https://user-images.githubusercontent.com/81782671/140871191-2b1d8be5-dcb2-4bc4-bf6f-d1069ba0ae8d.gif)
+
 
 **Flow Navigation** (Screen to Screen)
 
