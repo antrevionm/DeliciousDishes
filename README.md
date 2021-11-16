@@ -59,6 +59,13 @@ The app will show suggestions from people who love to cook and try out new recip
 * Menu Tab 
 ![Delicious Dishes walkthrough2](https://user-images.githubusercontent.com/81782671/140871191-2b1d8be5-dcb2-4bc4-bf6f-d1069ba0ae8d.gif)
 
+### 4. Fragments
+
+* View feed post 
+* Upload post screen
+* View Profile Screen
+* View settings sreen
+![Delicious Dishes walkthrough3](https://user-images.githubusercontent.com/81782671/141879996-771a63e2-2070-4dac-b003-da0abcb80299.gif)
 
 **Flow Navigation** (Screen to Screen)
 
@@ -69,7 +76,6 @@ The app will show suggestions from people who love to cook and try out new recip
    * Viw Feed Screen
 * View feed post 
    * Upload post screen
-   
 * Notifications Screen
    * Search Screen
 * Menu Screen
