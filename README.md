@@ -31,7 +31,7 @@ The app will show suggestions from people who love to cook and try out new recip
 
 * User logs in to access recent activity.
 * User utilizes the app to interact with others
-* User can view posts, upload posts, and save.
+* User can view posts and upload posts.
 * Each user has its personal profile
 
 **Optional Nice-to-have Stories**
@@ -64,8 +64,14 @@ The app will show suggestions from people who love to cook and try out new recip
 * View feed post 
 * Upload post screen
 * View Profile Screen
-* View settings sreen
+* View settings screen
 ![Delicious Dishes walkthrough3](https://user-images.githubusercontent.com/81782671/141879996-771a63e2-2070-4dac-b003-da0abcb80299.gif)
+
+### 5. Actual Posts
+* View Posts
+* Logout using logout button
+![Delicious Dishes walkthrough4](https://user-images.githubusercontent.com/81782671/142975182-834398f3-c6cd-493b-a1cd-262e1681061f.gif)
+
 
 **Flow Navigation** (Screen to Screen)
 
