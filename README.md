@@ -89,6 +89,8 @@ The app will show suggestions from people who love to cook and try out new recip
 
 **Final Project**
 *Show Demo
+![Delicious Dishes walkthrough05](https://user-images.githubusercontent.com/81782671/144340527-be205bfb-a6c4-43af-abaf-138c90ca60a2.gif)
+
 
 ## Wireframes
 ![image_67134721](https://user-images.githubusercontent.com/81782671/137864523-7332d6c4-c327-4d87-8c91-d920b85acf97.JPG)
